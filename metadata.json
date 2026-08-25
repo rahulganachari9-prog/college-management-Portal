@@ -1,0 +1,8 @@
+{
+  "name": "Remix College Management System",
+  "description": "Production-ready, role-based College Management System for students, faculty, HODs, placement officers, and administrators with Help Desk ticketing system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
